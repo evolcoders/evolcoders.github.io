@@ -35,11 +35,11 @@ team_members:
    position: spokesmen
    description: motivator for coders
  - title: Evoldog
-   position: chif devevelop
+   position: chief developer
    description: create a magic
  - title: Pupsik
-   position: chif devevelop
-   description: beer rikha
+   position: chief developer
+   description: beer rickshaw
 
 
 #List of interesting Github repo/projects to include - optional
