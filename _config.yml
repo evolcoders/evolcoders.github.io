@@ -30,7 +30,7 @@ skills:
 blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
-Team members:
+team_members:
  - title: Ivan Chu
    position: spokesmen
    description: motivator for coders
