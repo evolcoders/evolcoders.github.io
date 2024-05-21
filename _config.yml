@@ -32,15 +32,10 @@ blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 team_members:
- - title: Ivan Chupikov
-   position: spokesmen
-   description: motivator for coders
- - title: Nik Osipov
+ - title: Mikalai Osipov
    position: chief developer
    description: create a magic
- - title: Anrew Titov
-   position: chief developer
-   description: beer rickshaw
+
 
 
 #List of interesting Github repo/projects to include - optional
